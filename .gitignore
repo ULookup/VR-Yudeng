@@ -112,3 +112,27 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Local authoring history and generated deliveries; publish runtime assets explicitly.
+/ArtSource/
+/Releases/
+/Docs/AI/
+/Docs/Development/
+/Docs/Integration/
+/Docs/ReferenceEvidence/
+/Docs/Validation/
+/Assets/Docs/
+/Assets/Docs.meta
+/Assets/Yudeng/Editor/
+/Assets/Yudeng/Editor.meta
+/Assets/Yudeng/Tests/
+/Assets/Yudeng/Tests.meta
+/Assets/Yudeng/Scenes/ArtPreviews/
+/Assets/Yudeng/Scenes/ArtPreviews.meta
+/Assets/Yudeng/Runtime/Input/PhaseOneInputVerification.cs*
+/Assets/Yudeng/Runtime/Workshop/
+/Assets/Yudeng/Runtime/Workshop.meta
+/Assets/FishLanternXR/Runtime/State/MockGameStateManager.cs*
+/Assets/FishLanternXR/Runtime/Core/HeadlessDevelopmentOnlyGuard.cs*
+/ProjectSettings/PackageManagerSettings.asset
+/ProjectSettings/Packages/com.unity.testtools.codecoverage/

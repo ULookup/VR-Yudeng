@@ -1,0 +1,20 @@
+{
+  "name": "FishLantern.XR",
+  "rootNamespace": "FishLantern.XR",
+  "references": [
+    "Unity.InputSystem",
+    "Unity.XR.CoreUtils",
+    "Unity.XR.Interaction.Toolkit",
+    "Unity.XR.Management",
+    "Unity.ugui"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}

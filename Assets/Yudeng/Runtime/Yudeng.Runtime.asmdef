@@ -1,0 +1,6 @@
+{
+  "name": "Yudeng.Runtime",
+  "rootNamespace": "Yudeng",
+  "references": ["Unity.InputSystem", "Unity.XR.Interaction.Toolkit", "Unity.XR.CoreUtils", "Unity.XR.Management", "Unity.ugui", "FishLantern.XR"],
+  "autoReferenced": true
+}
